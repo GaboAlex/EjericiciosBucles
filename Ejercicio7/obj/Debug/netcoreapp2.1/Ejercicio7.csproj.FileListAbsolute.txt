@@ -1,0 +1,10 @@
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\bin\Debug\netcoreapp2.1\Ejercicio7.deps.json
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\bin\Debug\netcoreapp2.1\Ejercicio7.runtimeconfig.json
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\bin\Debug\netcoreapp2.1\Ejercicio7.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\bin\Debug\netcoreapp2.1\Ejercicio7.dll
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\bin\Debug\netcoreapp2.1\Ejercicio7.pdb
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\obj\Debug\netcoreapp2.1\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\obj\Debug\netcoreapp2.1\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\obj\Debug\netcoreapp2.1\Ejercicio7.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\obj\Debug\netcoreapp2.1\Ejercicio7.dll
+C:\Users\Tecsup\source\repos\Ejercicio6\Ejercicio7\obj\Debug\netcoreapp2.1\Ejercicio7.pdb

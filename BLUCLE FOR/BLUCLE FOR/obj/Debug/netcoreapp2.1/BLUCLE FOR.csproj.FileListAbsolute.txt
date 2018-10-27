@@ -1,0 +1,22 @@
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.csprojAssemblyReference.cache
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.csproj.CoreCompileInputs.cache
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.AssemblyInfoInputs.cache
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.AssemblyInfo.cs
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.deps.json
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.runtimeconfig.json
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.runtimeconfig.dev.json
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.dll
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.pdb
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.dll
+C:\Users\Tecsup\source\repos\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.pdb
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.deps.json
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.runtimeconfig.json
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.runtimeconfig.dev.json
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.dll
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\bin\Debug\netcoreapp2.1\BLUCLE FOR.pdb
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.csprojAssemblyReference.cache
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.csproj.CoreCompileInputs.cache
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.AssemblyInfoInputs.cache
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.AssemblyInfo.cs
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.dll
+E:\CodiGo-2018\Back End\Dia 4\BLUCLE FOR\BLUCLE FOR\obj\Debug\netcoreapp2.1\BLUCLE FOR.pdb
